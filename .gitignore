@@ -1,0 +1,9 @@
+/node_modules
+/.pnp
+.pnp.js
+
+
+/coverage
+
+/buildjson-server --watch article.json
+/npx json-server db.json
